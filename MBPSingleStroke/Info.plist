@@ -26,7 +26,11 @@
 	<string>Copyright © 2019 Alexander Jenke. All rights reserved.</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
+	<key>LSUIElement</key>
+	<true/>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string></string>
 </dict>
 </plist>
